@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MovingEvenNumbersBeginningOfArray 001/1.0.0": {
+        "dependencies": {
+          "System.Linq.Async": "6.0.0.0"
+        },
+        "runtime": {
+          "MovingEvenNumbersBeginningOfArray 001.dll": {}
+        }
+      },
+      "System.Linq.Async/6.0.0.0": {
+        "runtime": {
+          "System.Linq.Async.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.1.35981"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MovingEvenNumbersBeginningOfArray 001/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Linq.Async/6.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
